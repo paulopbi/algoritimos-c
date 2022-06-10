@@ -3,14 +3,6 @@
 
 int main () {
 	
-	/*
-	Exercicio algoritimo
-	
-		Objetivo: Escreva um programa que leia um numero inteiro e apresente seu antecessor e seu sucessor	
-	*/
-	
-	//Inicio do algoritimo
-	
 	int numero, antecessor, sucessor;
 	
 	printf("Escreva um numero inteiro (sem ponto ou virgula) \n");
