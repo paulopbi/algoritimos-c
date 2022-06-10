@@ -1,0 +1,3 @@
+Escreva um algoritimo para indentificar se um número é Par ou Ímpar. 
+
+Se o numero for par, devemos apresentar sua raiz quadrada e, se for ímpar, devemos apresentar o número elevado ao quadrado.
