@@ -1,16 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-int main(){
-	
-	/*
-	Exercicio de algoritimo
-	
-		Objetivo: elabore um programa que leia nome, idade, altura e ano de nascimento!
-	*/
-	
-	
-	//Algoritimo abaixo
+int main() {
 	
 	int idade, ano;
 	float altura;
