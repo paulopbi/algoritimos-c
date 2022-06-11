@@ -1,0 +1,3 @@
+Construir um programa que permita ao usuário escolher qual operação deseja realizar com dois números 
+
+(1 - Soma, 2 - Subtração, 3 - Multiplicação, 4- Divisão)
