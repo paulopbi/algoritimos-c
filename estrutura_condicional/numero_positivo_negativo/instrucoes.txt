@@ -1,0 +1,1 @@
+Desenvolva em linguagem C, um programa que verifique se o número digitado pelo usuário é positivo ou negativo. Se o número de entrada for maior que zero, então é positivo, senão é um número negativo. Se o número é zero, então não é nem positivo nem negativo.
