@@ -1,0 +1,1 @@
+Construa um programa que permita que o usuario informe os dados que popularão uma mnatriz. O usuario devera ser capaz de informar todos os elementos que se encontram nas linhas i e colunas j. Ao final, o programa deverá imprimir apenas os dados da diagonal principal. Elementos fora da diagonal principal devem ser impressos como 0.

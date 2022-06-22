@@ -1,0 +1,11 @@
+Desenvolver um algoritmo que, com base no valor do IMC de uma pessoa, 
+imprima na tela a classificação da pessoa, de acordo com a fórmula e a 
+tabela a seguir:
+
+Fórmula:
+IMC = PESO / ALTURA²
+
+Tabela:
+Menor que 21,0 		-	Abaixo do peso
+Entre 21,0 e 30,75	-	Peso padrão
+Superior a 30,75	-	Obeso 
